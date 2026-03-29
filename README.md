@@ -59,9 +59,9 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ali009-eng&show_icons=true&theme=transparent" />
+
   <img width="390" src="https://streak-stats.demolab.com?user=ali009-eng&theme=transparent" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali009-eng&layout=compact&theme=transparent" />
+  
 </div>
 
 <hr>
