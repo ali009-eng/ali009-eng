@@ -31,3 +31,26 @@
 <hr>
 
 
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Model%20Deployment%20%7C%20Pipelines-green?style=for-the-badge" />
+</p>
+
+<hr>
+
+
