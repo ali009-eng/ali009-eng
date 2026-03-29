@@ -59,10 +59,9 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ali009-eng&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ali Tawfik's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ali009-eng&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ali Tawfik's GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali009-eng&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ali Tawfik's Most Used Languages" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ali009-eng&show_icons=true&theme=transparent" />
+  <img width="390" src="https://streak-stats.demolab.com?user=ali009-eng&theme=transparent" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali009-eng&layout=compact&theme=transparent" />
 </div>
 
 <hr>
-
