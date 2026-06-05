@@ -51,13 +51,12 @@
 <hr>
 
 
-## ⚡️ Stats
 
 <br>
 
 <div align="center">
 
-  <img width="390" src="https://streak-stats.demolab.com?user=ali009-eng&theme=transparent" />
+
   
 </div>
 
