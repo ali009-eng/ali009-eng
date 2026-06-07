@@ -3,10 +3,10 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Tawfik!;" />
-</h1
+</h1 
 
 
-  👉 https://github.com/ali009-eng/ali009-eng/issues
+  https://github.com/ali009-eng/ali009-eng/issues
 
 <br>
 
